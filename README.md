@@ -1,2 +1,2 @@
 # HiveCote
-HiveCote用の
+HiveCote用のDockerイメージ
